@@ -16,7 +16,8 @@
       <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
        <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"/>
          <img src="https://img.shields.io/badge/Csharp-512BD4?style=flat&logo=Csharp&logoColor=white"/>
-      
+            <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
+
 </div>
 
 ![foryoudrizzle14's github stats](https://github-readme-stats.vercel.app/api?username=foryoudrizzle14&show_icons=true)
