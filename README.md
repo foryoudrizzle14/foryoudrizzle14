@@ -1,18 +1,17 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=120&animation=fadeIn&section=footer&text=IreneWorld❤️&fontAlign=70)
+
+
 ### Hi there 👋
 
 ## 💻 IRENE's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@bi-sz">
-        <img src="https://img.shields.io/badge/
-        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-    <a href="https://li-yo.tistory.com">
-        <img src="https://img.shields.io/badge/
-        Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
-  
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/
- api?name=bi-sz)](https://github.com/bi-sz/velog-readme-stats)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/
-api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
-</div><br>
+
+I AM CURRENTLY LEARNING... REACT.JS, TYPESCRIPT
+
+
+![foryoudrizzle14's github stats](https://github-readme-stats.vercel.app/api?username=foryoudrizzle14&show_icons=true)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foryoudrizzle14&exclude_repo=foryoudrizzle14.github.io&layout=compact&theme=tokyonight" />
+</a>
+</a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/dkssud8150/)
