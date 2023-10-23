@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=120&animation=fadeIn&section=footer&text=IreneWorld❤️&fontAlign=70)
 
 
-### Hi there 👋
 
 ## 💻 IRENE's log 💻
+
+### Hi there, i am currently learning Typescript👋
 
 
 <div>
