@@ -5,8 +5,19 @@
 
 ## 💻 IRENE's log 💻
 
-I AM CURRENTLY LEARNING... REACT.JS, TYPESCRIPT
 
+<div>
+
+   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=black"/>
+     <img src="https://img.shields.io/badge/React-Query-FF4154?style=flat&logo=ReactQuery&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white"/>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.NET&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Csharp-512BD4?style=flat&logo=Csharp&logoColor=white"/>
+      
+</div>
 
 ![foryoudrizzle14's github stats](https://github-readme-stats.vercel.app/api?username=foryoudrizzle14&show_icons=true)
 <a href="s">
