@@ -18,6 +18,7 @@
        <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"/>
          <img src="https://img.shields.io/badge/Csharp-512BD4?style=flat&logo=Csharp&logoColor=white"/>
             <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
+            <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
 </div>
 
