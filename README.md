@@ -4,7 +4,7 @@
 
 ## 💻 IRENE's log 💻
 
-### Hi there, i am currently learning Typescript👋
+### Hi there, i am currently learning Typescript👋 and Flutter
 
 
 <div>
